@@ -1,0 +1,6 @@
+.item_arrange {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1.5rem;
+  margin: 2rem;
+}
