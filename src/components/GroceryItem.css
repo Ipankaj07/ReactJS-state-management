@@ -41,6 +41,7 @@ button:hover {
   font-weight: bold;
   margin: 15px;
   min-height: 55%;
+  word-wrap: break-word;
 }
 
 .date {
